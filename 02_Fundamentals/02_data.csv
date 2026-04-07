@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Email,Phone,HireDate,Salary,City
+101,John,Doe,Engineering,Developer,john.d@company.com,555-0101,2020-01-15,85000,New York
+102,Jane,Smith,Marketing,Manager,jane.s@company.com,555-0102,2019-03-22,92000,Chicago
+103,Bob,Johnson,Sales,Associate,bob.j@company.com,555-0103,2021-06-01,55000,San Francisco
+104,Alice,Williams,Engineering,Lead,alice.w@company.com,555-0104,2018-11-10,110000,New York
+105,Charlie,Brown,HR,Recruiter,charlie.b@company.com,555-0105,2022-02-15,60000,Austin
+106,Eva,Davis,Sales,Associate,eva.d@company.com,555-0106,2020-08-30,57000,Chicago
+107,Frank,Miller,Marketing,Analyst,frank.m@company.com,555-0107,2021-12-05,72000,Austin
+108,Grace,Wilson,Engineering,Developer,grace.w@company.com,555-0108,2019-07-19,88000,San Francisco
+109,Henry,Taylor,Sales,Manager,henry.t@company.com,555-0109,2017-04-25,95000,New York
+110,Ivy,Anderson,HR,Director,ivy.a@company.com,555-0110,2016-09-12,125000,Austin
